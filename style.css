@@ -56,13 +56,14 @@ h1 {
   width: 556px;
   height: 438px;
 }
-/* .animated-image {
+.animated-image {
   transform: transform 0.3s ease-in;
 }
 .top-banner-section:hover .animated-image {
-  transform: rotate(180deg);
+  transform: rotate(6deg);
+  transform-origin: top right;
   /* transform-origin: bottom left; */
-/* transform-origin: bottom left; */
+}
 
 /* --------------------------
      Top banner ends  
